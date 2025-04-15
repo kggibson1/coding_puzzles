@@ -21,5 +21,5 @@ distances = np.abs(column_1 - column_2) # np.abs to avoid -ve vals
 
 # total distance between the lists
 total_distance = np.sum(distances)
-print(total_distance) # 2742123
+print(total_distance) # 2066446
 

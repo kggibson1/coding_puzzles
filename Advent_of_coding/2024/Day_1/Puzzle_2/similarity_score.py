@@ -55,7 +55,7 @@ column_2 = np.sort(data_array[:, 1])  # second list
 
 # get the total similarity score between the two ID lists
 total_similarity_score = similarity_score(column_1, column_2) # np.abs to avoid -ve vals
-print(total_similarity_score) # 21328497
+print(total_similarity_score) # 24931009
 
 
         
